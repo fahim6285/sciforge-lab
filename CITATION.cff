@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SciForge Lab"
+abstract: "Reproducible scientific computing agent: validates datasets, builds tested Python/MATLAB workflows and produces publication-quality figures with provenance and integrity checks."
+type: software
+version: 1.0.0
+date-released: 2026-11-26
+license: MIT
+authors:
+  - family-names: "Shaik"
+    given-names: "Fahim"
+repository-code: "https://github.com/fahim6285/sciforge-lab"
+keywords:
+  - ai-agent
+  - agent-skill
+  - scientific-computing
+  - data-visualization
+  - reproducibility
