@@ -1,0 +1,17 @@
+{
+  "author": {
+    "name": "fahim shaik"
+  },
+  "description": "Reproducible scientific computing and trustworthy data-visualization agent. Validates real datasets, builds and tests Python/MATLAB workflows, creates publication-quality plots and structured analysis deliverables, and audits numerical integrity and provenance. General-purpose; contains no user's research projects or private data.",
+  "interface": {
+    "capabilities": [],
+    "category": "Other",
+    "defaultPrompt": null,
+    "developerName": "fahim shaik",
+    "displayName": "sciforge-lab",
+    "longDescription": "Reproducible scientific computing and trustworthy data-visualization agent. Validates real datasets, builds and tests Python/MATLAB workflows, creates publication-quality plots and structured analysis deliverables, and audits numerical integrity and provenance. General-purpose; contains no user's research projects or private data.",
+    "shortDescription": "Reproducible scientific computing and trustworthy data-visualization agent. Validates real datasets, builds and tests Python/MATLAB workflows, creates publication-quality plots and structured analysis deliverables, and audits numerical integrity and provenance. General-purpose; contains no user's research projects or private data."
+  },
+  "name": "sciforge-lab",
+  "version": "1.0.0"
+}
